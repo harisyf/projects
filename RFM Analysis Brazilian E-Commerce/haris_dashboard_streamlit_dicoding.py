@@ -26,7 +26,7 @@ def create_rfm_df(df):
 
 # Load cleaned data
 #os.chdir('D:\Documents\Graduate\Projects\Dicoding\Analisis Data dengan Python\E-Commerce Public Dataset')
-main_df = pd.read_csv("main_data.csv")
+main_df = pd.read_csv("RFM Analysis Brazilian E-Commerce/main_data.csv")
 
 datetime_columns = ["order_purchase_timestamp", "order_approved_at","order_delivered_carrier_date","order_delivered_customer_date"]
 main_df.sort_values(by="order_approved_at", inplace=True)
