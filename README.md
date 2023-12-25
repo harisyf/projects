@@ -1,4 +1,4 @@
-# Haris Yafie's Personal Projects
+# Haris Yafie's Projects
 
 This repo contains compilation of my data science, data analytics, and machine learning project. The projects that I have done here is whether for academic purposes and self-learning. Feel free to see my projects below.
 
