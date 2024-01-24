@@ -9,6 +9,30 @@ This repo contains compilation of my data science, data analytics, and machine l
 
 ## Projects
 
+<img align="left" width="250" height="150" src="https://github.com/harisyf/projects/blob/main/images/Overview.png"> **[Human Resources Information System (HRIS) Dashboard](https://github.com/harisyf/hris-dashboard/tree/main)**
+
+A personal project to showcases a human resources information system (HRIS) dashboard built using Tableau. It provides insights into human resource metrics, helping HR professionals make informed decisions about talent management, workforce planning, and employee engagement. The dataset that I used for this project is [this dataset](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset) from Kaggle with a size of 1,470. Link to my dashboard on [Tableau Public](https://public.tableau.com/views/HRAnalytics_17053237748300/Overview?:language=en-US&:display_count=n&:origin=viz_share_link)
+<br/><br/>
+#
+
+<img align="left" width="250" height="150" src="https://github.com/harisyf/projects/blob/main/images/vehicle_sales_report_Page_1.png"> **[Vehicle Sales Power BI Dashboard](https://github.com/harisyf/image-classification-with-transfer-learning-deployment)**
+
+A personal project to showcases a vehicle sales dashboard built using Microsoft Power BI. It provides insights into key sales performance metrics and trends, helping stakeholders make informed business decisions. The dataset that I used for this project is [this dataset](https://www.kaggle.com/datasets/ddosad/auto-sales-data) from Kaggle with a size of 2,747.
+<br/><br/>
+#
+
+<img align="left" width="250" height="150" src="https://github.com/harisyf/projects/blob/main/images/gatto.jpg"> **[Animal Image Classification With Transfer Learning and Deployment into TFLite](https://github.com/harisyf/image-classification-with-transfer-learning-deployment)**
+
+A project for my submission of my learning in IDCamp 2023 about machine learning to make an animal images classification. This project is about classifying animal images using transfer learning with MobileNetV2 and then convert the trained model into TFLite. The model created by using Python with TensorFlow and Keras. I use Google Colab notebook to run my code, so I recommend to use Google Colab if you want to try my code. The dataset that I used for this project is [this dataset](https://www.kaggle.com/datasets/alessiocorrado99/animals10) from Kaggle.
+<br/><br/>
+#
+
+<img align="left" width="250" height="150" src="https://github.com/harisyf/projects/blob/main/images/electric.jpg"> **[Forecasting USA Energy Consumption](https://github.com/harisyf/energy-consumption-forecasting)**
+
+A project for my submission of my learning in IDCamp 2023 about machine learning to make a forecast. This project is about forecasting energy consumption in US especially in PJM West Region. The model created by using Python with TensorFlow and Keras. The dataset that I used for this project is this dataset from Kaggle. I used the PJMW Hourly dataset with a size of 143,206. On the Kaggle site, the dataset has a range of years from 2002 to 2018, but in this project I'll limit the years from 2013 to 2018.
+<br/><br/>
+#
+
 <img align="left" width="250" height="150" src="https://github.com/harisyf/projects/blob/main/images/emotion.png"> **[Emotion Classification Based on Text Dataset](https://github.com/harisyf/emotion-classification)**
 
 Natural Language Processing Project for my submission of my learning in Dicoding about machine learning to classify text data. This project is about classifying text to several classes of emotion. I used TensorFlow and Keras for the machine learning model.
